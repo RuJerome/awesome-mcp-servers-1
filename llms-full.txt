@@ -4745,6 +4745,23 @@ Kick off CrewAI crew deployments and check their status from MCP clients.
 - Tags: agents, multi-agent, orchestration
 - Category: AI, Agents, and Memory
 
+### Dagon Inference
+
+List abliterated open-weight LLMs and their prices, create an account key, check credits, buy credits with USDC on Solana, and run chat completions that return a signed receipt id.
+
+- URL: https://github.com/inkwell-finance/dagon-mcp
+- Language: TypeScript
+- Provider: Dagon Inference
+- Official: yes
+- Tags: llm, inference, solana, payments, remote
+- Category: AI, Agents, and Memory
+- License: MIT
+- Pricing: paid
+- Transport: stdio, streamable-http
+- Auth: none, api-key
+- Install: npx dagon-mcp
+- Streamable HTTP endpoint: https://inference.dagon.so/mcp
+
 ### Dare MCP Server
 
 Generate AI video and images on Dare (Seedance, Veo, Kling, Hailuo) from Claude, billed to your own Dare credits, with local cost estimates and dry runs.
