@@ -1308,6 +1308,20 @@ Scans a running React 19 app (Vite or Next.js) for UI drift in buttons, cards, c
 - Tags: react, ui-consistency, design-system, frontend
 - Category: Developer Tools and Code Intelligence
 
+### TreeHarbor MCP
+
+Read files at a pinned Git revision and submit changes that survive workspace cleanup through a local TreeHarbor service.
+
+- URL: https://github.com/ArtAndrew/TreeHarbor/blob/v0.1.19-alpha.1/docs/mcp.md
+- Language: Rust
+- Provider: TreeHarbor
+- Official: yes
+- Tags: git, source-control, coding-agents
+- Category: Developer Tools and Code Intelligence
+- Repository: https://github.com/ArtAndrew/TreeHarbor
+- License: source-available
+- Transport: stdio
+
 ### UI Verify MCP Server
 
 Review a pull request's visual diffs, read the AI judge's verdict on each change, and accept new baselines in UI Verify from a coding agent.
