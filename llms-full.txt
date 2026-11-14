@@ -9525,6 +9525,23 @@ Hosted MCP server that lets AI clients read live charts, backtest rule-based str
 - Transport: streamable-http
 - Streamable HTTP endpoint: https://mcp.traderwai.com
 
+### Trading Signals MCP
+
+Pay-per-call market data for AI agents: ES futures event-risk gate, SEC insider buys, and AI trade briefs.
+
+- URL: https://github.com/gdietsch/trading-signals-mcp
+- Language: TypeScript
+- Provider: Trading Signals Toolkit
+- Official: no
+- Tags: trading, market-data, x402, finance
+- Category: Finance, Commerce, and Business Apps
+- License: MIT
+- Pricing: freemium
+- Transport: stdio
+- Auth: api-key
+- Install: npx x402-trading-signals-mcp
+- Verified: 2026-11-11
+
 ### Truo
 
 Remote MCP that lets Australian households ask Claude or ChatGPT about their own bank accounts under the Consumer Data Right, read-only at the bank.
