@@ -9515,6 +9515,21 @@ Safety checks an AI agent calls before it buys, signs or pays on Robinhood Chain
 - Auth: none
 - Streamable HTTP endpoint: https://t0ll.xyz/mcp
 
+### Toolbox POD
+
+Design custom tees and hoodies, see mockups, and order prints made and shipped from Utah: price an order and get a checkout link to pay on toolboxpod.com.
+
+- URL: https://toolboxpod.com/docs/mcp
+- Language: TypeScript
+- Provider: Toolbox Brands LLC
+- Official: yes
+- Tags: print-on-demand, apparel, mockups, ecommerce, oauth
+- Category: Finance, Commerce, and Business Apps
+- Repository: https://github.com/Toolbox-POD/toolbox-pod-mcp
+- Transport: streamable-http
+- Auth: oauth
+- Streamable HTTP endpoint: https://mcp.toolboxpod.com/mcp
+
 ### TraderSpy
 
 Read-only crypto futures market data: AI signals, top-trader positions on Hyperliquid, Binance, Bybit and OKX, indicators, funding, open interest, a screener and backtests. No order or withdrawal tools.
